@@ -1,12 +1,12 @@
 # YTVideoAnalyser
 
-YTVideoAnalyser is an advanced tool designed to leverage state-of-the-art AI technologies, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), to provide in-depth analysis and responsive query handling for YouTube video content. This project aims to enhance the accessibility and understanding of video content, making it easier for educators, content creators, and media professionals to retrieve specific information and generate content-based responses.
+YTVideoAnalyser is an advanced tool designed to leverage Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), to provide in-depth analysis and responsive query handling for YouTube video content. This project aims to enhance the accessibility and understanding of video content, making it easier for educators, content creators, and media professionals to retrieve specific information and generate content-based responses.
 
 ## Features
 
 - **Video Content Analysis**: Analyze transcriptions of YouTube videos to understand the content deeply.
 - **Query Response Generation**: Utilize LLMs and RAG to answer queries related to the video, providing contextually relevant responses.
-- **Integration with OpenAI's API**: Harness the power of OpenAI's cutting-edge language models for natural language processing tasks.
+- **Integration with OpenAI's API**: Harness the power of OpenAI's language models for natural language processing tasks.
 - **Vector Database Utilization**: Efficiently store and retrieve high-dimensional data vectors, improving the speed and accuracy of information retrieval.
 
 ## Installation
