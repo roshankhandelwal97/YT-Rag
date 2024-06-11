@@ -1,4 +1,4 @@
-# YTVideoAnalyser
+# YT-Rag
 
 YTVideoAnalyser is an advanced tool designed to leverage Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), to provide in-depth analysis and responsive query handling for YouTube video content. This project aims to enhance the accessibility and understanding of video content, making it easier for educators, content creators, and media professionals to retrieve specific information and generate content-based responses.
 
